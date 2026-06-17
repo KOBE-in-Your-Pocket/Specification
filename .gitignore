@@ -1,2 +1,5 @@
 .DS_Store
 Thumbs.db
+
+# Nested git repos (managed separately)
+KOBE-in-Your-Poket-Client/
