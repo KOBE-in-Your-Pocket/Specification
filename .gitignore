@@ -1,2 +1,6 @@
 .DS_Store
 Thumbs.db
+
+# 独立リポジトリとして管理するため PBL2 では追跡しない
+KOBE-in-Your-Poket-Client-Backend/
+KOBE-in-Your-Poket-Client/
