@@ -29,6 +29,8 @@ The App does not use advertising identifiers and does not track you across apps 
 
 If you have indicated that you are under 18, we do not offer the features covered by 2.1 to 2.3, as explained in section 8, and therefore do not collect that information.
 
+The information described in 2.1 and 2.2 is collected only in versions of the App that offer account and review features. The current version does not offer them.
+
 ### 2.1 Account information
 
 Collected only if you create an account. You can browse tourist spots, the map, evacuation shelters and etiquette guidance without an account.
@@ -118,7 +120,7 @@ You may request information about the data protection regimes of those countries
 
 You may request disclosure, correction, addition, deletion, suspension of use, or suspension of disclosure to third parties for the personal data we hold about you. Contact us using the details in section 1.
 
-You can delete your account yourself from the settings screen in the App. Deleting the account erases your account information and the data held by our authentication provider.
+The current version of the App does not offer accounts, so we hold no account information. In versions that do offer accounts, you can delete your account yourself from the settings screen in the App; doing so erases your account information and the data held by our authentication provider.
 
 ---
 
@@ -161,4 +163,4 @@ We may revise this policy when laws or the service change. For significant chang
 | Version | Date | Change |
 | --- | --- | --- |
 | 2026-09-07 | 2026-09-07 | Initial version |
-| 2026-09-16 | 2026-09-16 | Switched the contact channel to a form; added what the form collects, the processor, and its retention period; documented the features withheld from users under 18 (section 8) |
+| 2026-09-16 | 2026-09-16 | Switched the contact channel to a form; added what the form collects, the processor, and its retention period; documented the features withheld from users under 18 (section 8); noted in sections 2 and 7 that the current version offers neither accounts nor reviews |
